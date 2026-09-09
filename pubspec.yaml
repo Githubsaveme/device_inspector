@@ -1,0 +1,33 @@
+name: device_inspector
+description: "A production-grade, cross-platform Flutter hardware and system inspector plugin providing CPU, memory, GPU, battery, storage, network, and sensor diagnostics."
+version: 0.0.1
+repository: https://github.com/example/device_inspector
+
+environment:
+  sdk: '>=3.0.0 <4.0.0'
+  flutter: '>=3.3.0'
+
+dependencies:
+  flutter:
+    sdk: flutter
+  plugin_platform_interface: ^2.1.8
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_lints: ^5.0.0
+
+flutter:
+  plugin:
+    platforms:
+      android:
+        package: com.example.device_inspector
+        pluginClass: DeviceInspectorPlugin
+      ios:
+        pluginClass: DeviceInspectorPlugin
+      linux:
+        pluginClass: DeviceInspectorPlugin
+      macos:
+        pluginClass: DeviceInspectorPlugin
+      windows:
+        pluginClass: DeviceInspectorPluginCApi
