@@ -6,6 +6,20 @@ A production-grade, cross-platform Flutter hardware and system diagnostics plugi
 
 ---
 
+## 📸 Screenshots
+
+### Desktop & Mobile Example Dashboard
+
+| Windows Desktop Dashboard | Windows RAM Diagnostics |
+| :---: | :---: |
+| ![Windows Desktop Dashboard](doc/screenshots/dashboard_desktop.png) | ![Windows RAM Diagnostics](doc/screenshots/ram_desktop.png) |
+
+| Mobile Dashboard (Android) | Mobile RAM Diagnostics |
+| :---: | :---: |
+| ![Mobile Dashboard](doc/screenshots/dashboard_mobile.png) | ![Mobile RAM Diagnostics](doc/screenshots/ram_mobile.png) |
+
+---
+
 ## Features
 
 - ⚡ **CPU Diagnostics**: Vendor, architecture, physical/logical core count, instruction flags, cache sizes, frequency, overall and per-core utilization %.
