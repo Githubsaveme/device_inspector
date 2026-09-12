@@ -1,3 +1,8 @@
+## 0.0.2
+
+* Updated documentation and added desktop and mobile dashboard screenshots in `README.md`.
+* Updated repository URL in `pubspec.yaml`.
+
 ## 0.0.1
 
 * Initial release of `device_inspector`.

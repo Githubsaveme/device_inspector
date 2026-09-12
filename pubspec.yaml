@@ -1,7 +1,7 @@
 name: device_inspector
 description: "A production-grade, cross-platform Flutter hardware and system inspector plugin providing CPU, memory, GPU, battery, storage, network, and sensor diagnostics."
-version: 0.0.1
-repository: https://github.com/example/device_inspector
+version: 0.0.2
+repository: https://github.com/Githubsaveme/device_inspector
 
 environment:
   sdk: '>=3.0.0 <4.0.0'
