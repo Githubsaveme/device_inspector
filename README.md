@@ -12,11 +12,16 @@ A production-grade, cross-platform Flutter hardware and system diagnostics plugi
 
 | Windows Desktop Dashboard | Windows RAM Diagnostics |
 | :---: | :---: |
-| ![Windows Desktop Dashboard](doc/screenshots/dashboard_desktop.png) | ![Windows RAM Diagnostics](doc/screenshots/ram_desktop.png) |
+| ![Windows Desktop Dashboard](
+<img width="1920" height="1027" alt="Screenshot 2026-09-10 025551" src="https://github.com/user-attachments/assets/1d5fca80-99eb-4f39-90f4-c82b1c6bf0eb" />
+) | ![Windows RAM Diagnostics](<img width="1916" height="1026" alt="Screenshot 2026-09-10 025505" src="https://github.com/user-attachments/assets/cee2fad4-1c93-4055-9b95-3b625a54e9f6" />
+) |
 
 | Mobile Dashboard (Android) | Mobile RAM Diagnostics |
 | :---: | :---: |
-| ![Mobile Dashboard](doc/screenshots/dashboard_mobile.png) | ![Mobile RAM Diagnostics](doc/screenshots/ram_mobile.png) |
+| ![Mobile Dashboard](<img width="720" height="1280" alt="image" src="https://github.com/user-attachments/assets/9e556ab1-b44c-4081-a00e-f0f850a62604" />
+) | ![Mobile RAM Diagnostics](<img width="720" height="1280" alt="image" src="https://github.com/user-attachments/assets/7add64cc-8ea4-4eb0-b0c3-d5893864ec0d" />
+) |
 
 ---
 
